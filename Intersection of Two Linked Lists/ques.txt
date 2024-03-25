@@ -1,4 +1,4 @@
-------Intersection of Two Linked Lists------
+------Intersection of Two Linked Lists------ (codingninjas)
 
 Problem statement
 You are given two Singly Linked Lists of integers, which may have an intersection point.
