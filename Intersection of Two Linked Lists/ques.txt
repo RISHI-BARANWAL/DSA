@@ -9,7 +9,7 @@ The Linked Lists, where a1, a2, c1, c2, c3 is the first linked list and b1, b2, 
 
 Detailed explanation ( Input/output format, Notes, Images )
 
-//ImgEx1
+//Image1  "ex1-27806.png"
 Sample Input 1 :
 4 1 -1
 5 6 -1
@@ -21,7 +21,7 @@ Explanation For Sample Input 1:
 As shown in the diagram, the node with data is 8, at which merging starts
 
 
-//ImgEx2
+//Image2 "ex2-27805png"
 Sample Input 2 :
 1 9 1 -1
 3 -1
