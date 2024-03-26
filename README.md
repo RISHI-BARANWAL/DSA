@@ -1,5 +1,5 @@
 # DSA
-// Codechef, Leetcode, Hackerrank, Codingninjas, Geeksforgeeks, ...
+// Codechef, Leetcode, Hackerrank, Codingninjas, Geeksforgeeks, ... (JAVA / C Programming)
 
 ques.txt => DSA Question,
 Solution.java => Code
